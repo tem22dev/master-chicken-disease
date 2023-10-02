@@ -1,0 +1,16 @@
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\bin\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.exe.config
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\bin\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.exe
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\bin\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.pdb
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\bin\Debug\nunit.framework.dll
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\obj\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.csproj.AssemblyReference.cache
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\obj\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.Properties.Resources.resources
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\obj\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.csproj.GenerateResource.cache
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\obj\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.csproj.CoreCompileInputs.cache
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\obj\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.csproj.CopyComplete
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\obj\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.exe
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\obj\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.pdb
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\bin\Debug\SwiPlCs.dll
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\obj\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.frMain.resources
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\obj\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.controllers.Start.resources
+D:\Workspace\university\2023\TRI-TUE-NT\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga\obj\Debug\Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.controllers.Question.resources
