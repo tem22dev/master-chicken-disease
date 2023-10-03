@@ -16,24 +16,43 @@ namespace Chan_Doan_Va_Dieu_Tri_Benh_O_Ga
     {
         
 
-        private Start start;
-        private Question question;
+        private Start startController;
+        private Question questionController;
+        private ResultController resultController;
         public frMain()
         {
             InitializeComponent();
 
-            start = new Start(this);
-            question = new Question(this);
+            startController = new Start(this);
+            questionController = new Question(this);
+            resultController = new ResultController(this);
 
-            panelMain.Controls.Add(start);
+            panelMain.Controls.Add(startController);
         }
 
-        
+        public void BackToStart()
+        {
+            Controls.Clear();
+
+            Controls.Add(startController);
+        }
+
+        public void setResult(string disease)
+        {
+            Controls.Clear();
+
+            resultController.setDisease(disease);
+
+            Controls.Add(resultController);
+        }
 
         public void Start()
         {
             Controls.Clear();
-            Controls.Add(question);
+
+            questionController.reset();
+
+            Controls.Add(questionController);
         }
     }
 }
