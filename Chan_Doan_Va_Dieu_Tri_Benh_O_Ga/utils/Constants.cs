@@ -11,7 +11,7 @@ namespace Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.utils
     {
         public static class Config
         {
-            public static readonly string PrologHomeDir = @"C:\Program Files (x86)\swipl";
+            public static readonly string PrologHomeDir = @"D:\App\swipl";
         }
         public static class QuestionList
         {
@@ -111,21 +111,21 @@ namespace Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.utils
                         return Dissease8;
                 }
 
-                return "khong xac dinh";
+                return "Không xác định được bệnh!";
             }
         }
 
         public static class Rresult
         {
-            public static readonly string Rresult0 = "khong xac dinh";
-            public static readonly string Rresult1 = "Rresult1";
-            public static readonly string Rresult2 = "Rresult2";
-            public static readonly string Rresult3 = "Rresult3";
-            public static readonly string Rresult4 = "Rresult4";
-            public static readonly string Rresult5 = "Rresult5";
-            public static readonly string Rresult6 = "Rresult6";
-            public static readonly string Rresult7 = "Rresult7";
-            public static readonly string Rresult8 = "Rresult8";
+            public static readonly string Rresult0 = "Hệ chuyên gia chưa xác định được gà của bạn mắc bệnh gì nên không đưa ra được phương pháp điều trị!!";
+            public static readonly string Rresult1 = "Thay đệm lót chuồng, phun thuốc sát trùng 1 ngày/1 lần. Dùng thuốc đặc trị cầu trùng gà (tùy theo màu phân để phân loại cầu trùng manh tràng hay cầu trùng ruột non) cuối cùng cung cấp thuốc bổ và chất điện giải cho gà.";
+            public static readonly string Rresult2 = "Vệ sinh môi trường thức ăn nước uống, khử trùng chuồng nuôi và môi trường xung quanh. Dùng một trong các loại thuốc sau: Coli-200, Ampicoli, Gentadox… dùng trong 3-5 ngày liên tục. Bổ sung thuốc trợ sức, trợ lực tăng cường sức đề kháng.";
+            public static readonly string Rresult3 = "Tiêu hủy toàn đàn khi phát hiện bệnh. Phòng bệnh là biện pháp duy nhất hạn chế dịch bệnh xảy ra.";
+            public static readonly string Rresult4 = "Dùng các thuốc tẩy hỗn hợp Phenothiazin 500mg/kgTT, Mebendazol liều: 0,5g/kgTT, Nova – Levasol liều: 1g/5 – 6kgTT, dùng một liều duy nhất. Trộn vào thức ăn hoặc một ít nước cho uống để điều trị.";
+            public static readonly string Rresult5 = "Dùng các hóa chất diệt nấm như: crystal-violet, brillian green, iodua-kali 0,8%, dung dịch CuSO4 1/2000 cho uống làm giảm sự lan truyền bệnh. Không dùng các kháng sinh có nguồn gốc từ nấm: Penicillin, Streptomycin,…";
+            public static readonly string Rresult6 = "Dùng các dẫn xuất của Sulfamid 0,2- 0,5% trộn trong thức ăn hay pha trong thức uống. Hoặc có thể dùng các kháng sinh khác như Tetramycin, Collistin, Imequil, Pulmequil, Furazolidon,…";
+            public static readonly string Rresult7 = "Cậy vẩy mụn đậu, rửa sạch bằng nước muối loãng. Hàng ngày bôi dung dịch 1%Xanhmetylen lên mụn đậu, sau ít ngày mụn đậu sẽ khô dần và tự bong. Làm sạch các mụn đậu rồi bôi các chất sát trùng nhẹ như Glycerin10%, CuSO4 5%.";
+            public static readonly string Rresult8 = "Không có biện pháp can thiệp. Phòng bệnh là biện pháp hữu hiệu nhất. Hạn chế việc phối trộn thức ăn không theo khẩu phần.";
 
             public static string getRresult(string str)
             {

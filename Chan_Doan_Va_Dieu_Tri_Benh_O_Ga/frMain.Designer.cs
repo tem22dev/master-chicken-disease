@@ -49,7 +49,7 @@ namespace Chan_Doan_Va_Dieu_Tri_Benh_O_Ga
             this.Controls.Add(this.panelMain);
             this.Name = "frMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Bắt đầu";
+            this.Text = "Hệ chuyên gia chẩn đoán và điều trị bệnh ở gà";
             this.ResumeLayout(false);
 
         }

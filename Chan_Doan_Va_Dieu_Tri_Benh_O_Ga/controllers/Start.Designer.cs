@@ -42,11 +42,11 @@ namespace Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.controllers
             this.batdau.ForeColor = System.Drawing.Color.White;
             this.batdau.Image = ((System.Drawing.Image)(resources.GetObject("batdau.Image")));
             this.batdau.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.batdau.Location = new System.Drawing.Point(239, 202);
+            this.batdau.Location = new System.Drawing.Point(269, 252);
             this.batdau.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.batdau.Name = "batdau";
-            this.batdau.Padding = new System.Windows.Forms.Padding(23, 16, 18, 16);
-            this.batdau.Size = new System.Drawing.Size(248, 78);
+            this.batdau.Padding = new System.Windows.Forms.Padding(26, 20, 20, 20);
+            this.batdau.Size = new System.Drawing.Size(279, 98);
             this.batdau.TabIndex = 3;
             this.batdau.Text = "     BẮT ĐẦU";
             this.batdau.UseVisualStyleBackColor = false;
@@ -55,23 +55,24 @@ namespace Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.controllers
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(65, 33);
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(12, 33);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(550, 41);
+            this.label1.Size = new System.Drawing.Size(792, 41);
             this.label1.TabIndex = 4;
-            this.label1.Text = "PHẦN MỀM CHẨN ĐOÁN BỆNH Ở GÀ";
+            this.label1.Text = "HỆ CHUYÊN GIA CHẨN ĐOÁN VÀ ĐIỀU TRỊ BỆNH Ở GÀ";
             // 
             // Start
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.Controls.Add(this.label1);
             this.Controls.Add(this.batdau);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Start";
-            this.Size = new System.Drawing.Size(727, 371);
+            this.Size = new System.Drawing.Size(818, 464);
             this.ResumeLayout(false);
             this.PerformLayout();
 
