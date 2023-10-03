@@ -1,8 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+
+using Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.utils;
+using static Chan_Doan_Va_Dieu_Tri_Benh_O_Ga.utils.Constants;
 
 namespace Chan_Doan_Va_Dieu_Tri_Benh_O_Ga
 {
@@ -14,7 +18,7 @@ namespace Chan_Doan_Va_Dieu_Tri_Benh_O_Ga
         [STAThread]
         static void Main()
         {
-            Environment.SetEnvironmentVariable("SWI_HOME_DIR", @"D:\App\swipl");
+            Environment.SetEnvironmentVariable("SWI_HOME_DIR", Config.PrologHomeDir);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 

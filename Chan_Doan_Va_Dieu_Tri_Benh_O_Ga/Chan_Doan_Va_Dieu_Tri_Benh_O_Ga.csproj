@@ -63,6 +63,12 @@
     <Compile Include="controllers\Question.Designer.cs">
       <DependentUpon>Question.cs</DependentUpon>
     </Compile>
+    <Compile Include="controllers\ResultController.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="controllers\ResultController.Designer.cs">
+      <DependentUpon>ResultController.cs</DependentUpon>
+    </Compile>
     <Compile Include="controllers\Start.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -75,7 +81,6 @@
     <Compile Include="frMain.Designer.cs">
       <DependentUpon>frMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="main\Diagnose.cs" />
     <Compile Include="MyProlog.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -83,6 +88,9 @@
     <Compile Include="utils\HelpMethods.cs" />
     <EmbeddedResource Include="controllers\Question.resx">
       <DependentUpon>Question.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="controllers\ResultController.resx">
+      <DependentUpon>ResultController.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="controllers\Start.resx">
       <DependentUpon>Start.cs</DependentUpon>
